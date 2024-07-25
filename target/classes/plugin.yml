@@ -1,0 +1,7 @@
+name: CustomEnchants
+version: '1.0-SNAPSHOT'
+main: me.notenoughskill.customenchants.CustomEnchants
+api-version: '1.20'
+commands:
+  enchanter:
+    description: Opens enchanter GUI
